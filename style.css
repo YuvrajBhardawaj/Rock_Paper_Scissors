@@ -1,0 +1,21 @@
+.begin{
+    align-items: center;
+    text-align: center;
+}
+#logo{
+    width: 500px;
+}
+body{
+    background-image: url('bat.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#start{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+#start:hover{
+    color: antiquewhite;
+    background-color:purple;
+}
